@@ -1,0 +1,11 @@
+.row{
+  padding-top: 20px;
+}
+.main-box {
+  margin: 50px auto;
+}
+
+.main-box tr {
+  width: auto;
+  margin: 0 auto;
+}
